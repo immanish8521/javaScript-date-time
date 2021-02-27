@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent_class{
+    width: 100vw;
+    height: 100vh;
+    background: #282828;
+    position: relative;
+}
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 5rem;
+}
+span{
+    color: #948686;
+}
